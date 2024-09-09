@@ -11,7 +11,7 @@ I'm a passionate **Programmer**, **Website Developer**, and **Ethical Hacker** w
 - 🌐 Skilled in front-end development, I build responsive, user-friendly websites.
 - 🛡️ As an Ethical Hacker, I help secure systems and networks by identifying vulnerabilities and suggesting robust defenses.
 
-## 💻 Skills
+## Skills
 
 - **Programming Languages:** Python, JavaScript, C++.
 - **Web Development:** HTML, CSS, JavaScript, Node.js.
@@ -19,7 +19,8 @@ I'm a passionate **Programmer**, **Website Developer**, and **Ethical Hacker** w
 
 ## 🌍 Let's Connect!
 
- #whatsapp: 03275641054 | #email: abbasmassey12@gmail.com
+ - whatsapp: 03275641054
+ - email: abbasmassey12@gmail.com
 
 Feel free to check out my repositories and projects below! 😊
 
