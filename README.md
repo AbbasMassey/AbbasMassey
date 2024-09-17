@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Maisam Abbas 
-# 👀 I’m interested in techorld.
+# 👀 I’m interested in techowrld.
 # 🌱 I’m currently learning web development, programming and ethical hacking.
 
 
